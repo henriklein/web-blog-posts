@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "why our Future is going to be Boring"
-date: 2020-06-02
+date: 2020-11-14
 categories: future
 permalink: /:categories/:title
 
