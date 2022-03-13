@@ -7,127 +7,146 @@ permalink: /:categories/:title
 
 ---
 
-# Should governments be obligated to provide citizens in the same way they provide water or electricity?
+# **To what extend is internet access a basic right comparable to other essential resources like water or electricity?**
 
-# 1.0 Introduction *of massive protests in India*
+# **1.0 Introduction \*of case details of laws and protests\***
 
-## 1.1 Law using religion as criteria for citizenship polarises
+In India, the political positions between the government and Muslims protesting the newly imposed citizenship law could not be any bigger. This law expedites citizenship for certain religious minorities, however, by leaving out Muslim residents, creates discriminatory effects on people’s access to nationality. Critics argue that this could pave the course for the disenfranchisement of millions of Muslims.
 
-In India, the political positions between the government and Muslims protesting the newly imposed citizenship law could not be more prominent. Protesters have united in opposition to a law that uses religion as a criterion for citizenship. Critics argue that this could pave the course for the disenfranchisement of millions of Muslims.
+![img](https://miro.medium.com/max/1400/1*2Zf6p4cFp4kl6BhqoWh9CQ.png)
 
-## 1.2 Energising the right-wing at the expense of Muslim minority
+Demonstrator display placards and shout slogans during a protest against a new citizenship law, in New Delhi, India. Image: Reuters
 
-The explosion of long-simmering anger comes as the economy is experiencing its weakest growth in six years. Several indicators point to a structural slowdown from factory output to household consumption. However, the government's focus has remained on delivering populist policies that critics say energize its right-wing Hindu base at the expense of the Muslim minority.
+During the same time, The Modi administration revoked highly Muslim dense Kashmir’s special status in August 2019, effectively abolishing Article 370 of the Indian Constitution, which ruled Kashmir individual autonomous freedom.
 
-## 1.3 India uses Internet shutdowns to keep protests under control
+The explosion of long-simmering anger comes as India’s economy is experiencing its weakest growth in six years. Several indicators point to a structural slowdown from factory output to household consumption. However, the government’s focus has remained on delivering populist policies that critics say energize its right-wing Hindu base at the expense of the Muslim minority.
 
-Confronted with some of the largest protests since demonstrations in 1975 against Indira Gandhi's suspension of democratic rights, Mr Modi has reverted to authoritarian tactics, shutting down the Internet and banning protests, keeping parties from being able to communicate with one another, seemingly also covering up for police brutality in the progress of breaking up demonstrations.
+All those points combined energized protesters especially in Kashmir to unite in opposition to a law that uses religion as a criterion for citizenship and the Modi administration and its revoking of Kashmir’s special status in general.
 
-## 1.4 India has used Internet shutdowns quite often, initializing debate
+Confronted with some of the largest protests since demonstrations in 1975 against Indira Gandhi’s suspension of democratic rights, Narendra Modi has reverted to authoritarian tactics, shutting down the Internet and banning protests, keeping parties from being able to communicate with one another, seemingly also covering up for police brutality in the progress of breaking up demonstrations.
 
-In 2019 alone, the state of India cut public internet connection to its citizens more than 80 times, setting an undisputed record of internet blackouts globally.
+![img](https://miro.medium.com/max/1400/1*BFmeJ0GONTun1dq7lhdMvw.png)
 
-*Governments are increasingly relying on internet shutdowns, as they argue it to be helping national security. However, such blackouts are argued not just to violate international law but can also have devastating consequences for those affected.*
+Prime Minister Narendra Modi of India meets with President Barack Obama in the Oval Office at the White House on June 7.
 
-**Is internet access in itself a human right, and should governments be obligated to provide citizens in the same way they provide water or electricity?**
+Even though the Supreme Court ruled those blackouts illegitimate, the government pursued its banning: “we believe that an order suspending the aforesaid services indefinitely is impermissible,” the now invective Kashmir Court states.
 
-# 2.0 Opposing sides - opinions on the use of internet blackouts
+The government not only disabled Internet and cellular services in Kashmir but also deployed thousands of state troops. Government officials placed regional political officials under house arrest using a controversial detention law.
 
-## 2.1 Chinas supports, saying internet shutdown are standard
+Since given Citizenship law, many of said internet shutdowns followed. In 2019 alone, the state of India cut public internet connection to its citizens more than 80 times, setting an undisputed record of internet blackouts globally.
 
-Chinese government officials praise the Indian government, saying "shutting down the internet in a state of emergency should be standard practice for sovereign countries". Further, such measures are legitimate in states where national security is at stake.
+*We can see that Governments all over the world are increasingly relying on internet shutdowns, as they argue it to be helping national security. However, activists criticise the Indian government for not just violating international law but by shutting down the internet they also create devastating consequences for those affected.*
 
-## 2.2 India legitimizes its actions using vaguely phrased international law
+> *Both sided argue their side to be helping the security of India’s citizens, however, contradict each other in every single way possible (****more)\***
 
-India legitimizes their actions by referring to international human rights law stating a countries right to limit freedom of speech in minimal circumstances. Many critics argue that the authorities define a state emergency exceptionally vaguely.
+***Are internet shutdowns a legitimate response to security threads, or are they themselves a thread to security?\***
 
-Indian Officials claim that by cutting off internet connections, citizens are prevented from joining protests in the first place, keeping them from violating, rioting and attacking in the first place.
+# **2.1 India’s perspective on internet shutdown’s**
 
-## 2.3 Protesters argue it increases violence / prevents access to basic needs
+Justifications of Indian officials for the shutdown have centred on security and the prevention of violence. Authorities claim the only way to maintain order in critical situations is to advance digital repression.
+
+**The Indian government legitimizes their actions by referring to international human rights law stating a countries right to limit freedom of speech in minimal circumstances.** Many critics argue that the authorities define a state emergency exceptionally vaguely.
+
+Indian Officials claim however that by cutting off internet connections, citizens are prevented from joining protests in the first place, keeping them from violating, rioting and getting hurt. Therefore, they claim that shutting down the internet helps public safety, and therefore, so the state, help the security of every single citizen.
+
+# **2.2 critics perspective on internet shutdown’s**
 
 However, on the other side, critics argue that research shows increasing violence during blackouts with people stealing, rioting and fighting.
 
-Furthermore, restrictions seem to have devastating consequences on people's everyday life, preventing them from accessing essential services and pursuing their freedom of speech.
+Furthermore, restrictions seem to have devastating consequences on people’s everyday life, preventing them from accessing essential services and pursuing their freedom of speech. Human rights activist Usha Ramanathan states: “all of the services we use are digital. Your entitlements are digital and then access is being denied.”
 
-# 3.0 Specific Example - Kashmir with most internet shutdowns
+![img](https://miro.medium.com/max/1400/1*GJu7sN39CJ4jm5YTrWMTNg.png)
 
-*The most high-profile example is Kashmir,* a region that has been the site of the most prolonged internet shutdown ever in any democracy. Authorities shut down the Internet in Kashmir beginning in August 2019, stripping the region of its previous autonomy. After that, they started a long and harsh crackdown on residents.
+Nottingham Business School
 
-## 3.1 Background on the political situation of Kashmir
+In retrospect:
 
-Simultaneously, Modi revoked the region's special status in August 2019, effectively abolishing Article 370 of the Indian Constitution, which ruled Kashmir individual autonomous freedom.
-
-Even though the Supreme Court ruled the blackout illegitimate, the government pursued its banning: "believe that an order suspending the aforesaid services indefinitely is impermissible," the now invective Kashmir Court states.
-
-The government disabled Internet and cellular services, and officials sent thousands of state troops to Kashmir. Government officials placed regional political officials under house arrest using a controversial detention law.
-
-Human rights activist Usha Ramanathan states: "all of the services we use are digital. Your entitlements are digital and then access is being denied,"
-
-## 3.2 Justification by the Indian government to invoke a total blackout
-
-Justifications for the shutdown have centred on security and the prevention of violence. Authorities claim the only way to maintain order is to advance digital repression.
-
-"According to law, the shutdown of internet can only be imposed is if there's concern for public safety or a public emergency, but unfortunately these two words are not defined in any legislation of India."
-
-## 3.3 Consequences on the citizens by imposing an internet blackout
-
-1. The government cut citizens off from access to vital communication services and government services and corporate services like banking.
+1. The government cuts citizens off from access to vital communication, government and corporate services. For example, Citizens in Kashmir could not pay their television bills, and students could sign up for their exams.
 2. It hinders the ability of domestic media and the international community to report. It also hinders from gaining visibility into events that could contribute to, rather than diminishes, violence where it may be occurring.
-3. Citizens in Kashmir could not pay their television bills, and students could sign up for their exams.
-4. Shutdowns also have a massive effect on the economy because they keep internet users from having or using online businesses.
+3. Shutdowns also have a massive effect on the economy because they keep internet users from having or using online businesses.
 
-**Concerning the Kashmir Chamber of Commerce and Industry, an estimated 2 Billion Dollars and nearly have a billion Jobs where caused regionally by those internet shutdowns**.
+**Concerning the Kashmir Chamber of Commerce and Industry, an estimated 2 billion Dollars and nearly have a million Jobs were lost regionally by those internet shutdowns**. This shows a huge threat to people’s security and everyday life’s, as everyday necessities are lacking.
 
-## 3.4 Restoration of Internet access with limiting and protocol logging users connection
+# **3.0 Response of the international community**
 
-Internet connection in most circumstances was being restored. However, users still need a specific Internet Protocol address to connect online, enabling authorities to track devices.
+On a more international level: In the Bipolar world, we live in, we can see that the US and China are fighting for global dominance and intimidating relative power. Therefore, it is essential to understand the geographical and geopolitical position India is holding and what possible influence supporting countries might have on India as a regional hegemony and surrounding countries of the east.
 
-## 3.4 India's Supreme Court order to review the Internet Shutdown in Kashmir got ignored by the government
+![img](https://miro.medium.com/max/1400/1*NhRFWApVbqJhFK0uzmnZfg.png)
 
-The Supreme Court has ruled an indefinite internet shutdown illegal and suggested exempting government websites, banking services, hospitals and "other essential services" from the blackout. However, it only instructed the Indian government to review its continued use of Section 144 orders instead of ordering the Motis government to withdraw. It stated for the first time that Indians have indeed "fundamental rights" to freedom of speech and expression, also on their internet activity.
+How China Overtook the U.S. as the World’s Major Trading Partner
 
-# 4.0 Response of the international community
+Both countries, therefore, want India as an ally against the opposite party, hoping to expand their borders of influence and security in the Southeast-Asian region. Aa because of those interests, both poles react in ways rather supporting the government’s actions, then criticizing them, as one might expect.
 
-In the Bipolar world, we live in, the US and China are fighting for global dominance and intimidating relative power. Therefore, it is essential to understand the geographical position India is holding and what possible influence supporting countries might have on India as a regional hegemony and surrounding countries of the east.
+## **3.1 China supporting India’s communication limitation**
 
-Both countries, therefore, want India as an ally against the opposite party, hoping to expand their borders of influence in the South East-Asian region.
+China is officially supporting the actions taken by the Indian government and praises its way of limiting freedom of speech. Chinese government officials praise the Indian government, saying “shutting down the internet in a state of emergency should be standard practice for sovereign countries”. Further, such measures are legitimate in states where national security is at stake.
 
-## 4.1 China supporting Indias communication limitation
+Such measures, so the justification, were also used in Myanmar, and helped the local Rakhine State officials in holding onto power, where fighting between the military and the Arakan Army has intensified over the last years. By effectively turning mobile data on and off since July 2019, demonstrations and empowerments were minimized and limited- which, how one might argue, effectively established security.
 
-China is officially supporting the actions taken by the government and praises its way of limiting freedom of speech. It also invites India to its Belt and Road initiative meetings. It encourages India to further cooperate with the regime, even though the regional war in the Himalayas between both parties is still holding both from a total alliance.
+China does also try for India to not become part of the western community, rather their alliance attracting India with belt and road initiatives and projects in order to establish a wider range of security from the west and its mainland.
 
-## 4.2 Western world knowingly turning a build eye to keep India's governments as an alley away from china
+China clearly encourages India to further cooperate with the regime, even though the regional war in the Himalayas between both parties is still holding both from a total alliance.
 
-The Us and the federal West have similar interests with India and plan to establish a regional hegemony with western interests and possible American military forces. It tries to counter Chinas Belt and Road initiative planning on spreading thinking and its colonizing.
+## **3.2 Western world knowingly turning a build eye to keep India’s governments as an alley away from china**
 
-This is also why the US, the UK and other countries encouraged the idea of including India in D10, Democratic10, meetings, ergo, declaring India a Democracy. At the same time, it surpasses its citizens and restricts freedom of speech for more than ten months for some of its citizens. Western alliances seemingly turned a blind eye to this issue, as US and Uk officials declined to comment on the subject. It is important not to upset Indian officials, in a war against China, with India still taking sides. But is this the right approach, ignoring issues because of other problems that might seem more looming?
+The US and the allied West have similar interests with India and plan to establish a regional hegemony with western interests and possible American military forces. It tries to counter Chinas Belt and Road initiative planning on spreading Chinese thinking and its colonizing.
 
----
+This is also why the US, the UK and other countries encouraged the idea of including India in the D10, Democratic10, meetings, ergo, declaring India a Democracy. At the same time, it supresses its citizens and restricts freedom of speech for more than ten months for some of its citizens, Western alliance’s seemingly turned a blind eye to this issue, as US and UK officials declined to comment on the subject. During Obamas days in office, the so-called pivot to Asia foreign policy was established, an effort to contain and hold down china’s regional growth by maintaining a western presence in east Asia.
 
-## Conclusion
+This was a necessity to enable china in developing peacefully, while not destabilising the security of surrounding countries such as India. This enabled the US to longer maintain a global US hegemony by isolating China and building strategic alliances which gave the west soft and institutional power. The Build Back Better World incitive is the response by western nations to further fight for regional soft power against china’s Belt and road initiative.
 
-Nature is not a term that should be seen as constant, rather as a constantly moving living being we only get to see at one point in its life span. Nature doesn't care. Natur is independent. Nature Outlives. We are not destroying nature or our world. We are simply terraforming it in a specific way unsuitable for homo sapiens. 
+It seems important not to upset Indian officials, in a war against China, with India still taking sides. But is it the right approach, to ignore issues because of other problems that might seem more looming? This seems quite immoral, and not like an official standpoint the west wants to hold.
 
+# 4.0 Concluding;…
 
+Coming back to the key question raised discussing the issue about whether limiting internet access is a security threat comparable to ones access to food or water, we can understand that a group regulating peoples access to communication services is of huge influence and power and may be considered a serious security threat. A group holding the power to the internet, holds the power concerning people access and freedom to communicate digitally, and may therefore in the long run, contribute to possible abuse by those in power. Internet creates security, and in cases where freedom of speech is limited, such security challenged by other parties is at stake.
 
+![img](https://miro.medium.com/max/1400/1*9zdYpz0mVVxgh67FScaeOw.png)
 
+Time for the D10 to replace the G7? | The Strategist
 
-[Internet shutdowns have become a weapon of repressive regimes](https://www.economist.com/graphic-detail/2021/10/15/internet-shutdowns-have-become-a-weapon-of-repressive-regimes)
+In some case studies raised in this presentation, India, and Myanmar, we can understand a state at least trying to secure its people from rioting and demonstrating, and by doing so, creates a new security threat by challenging people’s ability to express themselves freely. In the modern western world, we have grown up in, such limitations are considered not to be legitimate and challenge the very idea of democracy. Still, Western countries want India to join their alliance, and therefore turn blind eyes disregarding the issue of accessibility.
 
-[Asia's internet shutdowns are a violation of human rights](https://www.ft.com/content/6a656de5-6031-4d97-b9cf-f683440b7915)
+The importance of having India as a strategic regional ally to achieve a counter-balance hegemony to china seemingly justifies authoritarian actions by a regime to still be recognised to as a democracy. This really shows hypocritic behaviour by western countries not speaking up, that supposedly defining a countries legitimacy as a very necessity for it to be sovereign.
 
-[India's youth voice anger at Modi's citizenship law](https://www.ft.com/content/d2bf1eac-230c-11ea-92da-f0c92e957a96)
+Thanks for reading!
 
-[Cuba cracks down on internet in attempt to quell protests](https://www.ft.com/content/0376e21b-0b46-4dcf-8e72-0d0bb9118d89)
+Best, Henri
 
-[Kashmir Internet Shutdown Continues, Despite Supreme Court Ruling](https://thediplomat.com/2020/08/kashmir-internet-shutdown-continues-despite-supreme-court-ruling/)
+[LinkedIn](https://linkedin.com/in/henriklein), [Portfolio](https://henriklein.de/), [Instagram](https://instagram.com/german.henri),…
 
-[Supreme Court Orders Review of Internet Shutdown in Kashmir](https://time.com/5762751/internet-kashmir-supreme-court/)
+[KH15][Internet shutdowns have become a weapon of repressive regimes](https://www.economist.com/graphic-detail/2021/10/15/internet-shutdowns-have-become-a-weapon-of-repressive-regimes) *(Last Checked Wed 9. Feb 2022, 20:00)*
 
-[India's internet shutdown shows normal practice for sovereign countries](https://www.chinadaily.com.cn/a/201912/17/WS5df8702ca310cf3e3557eb07.html)
+https://www.economist.com/graphic-detail/2021/10/15/internet-shutdowns-have-become-a-weapon-of-repressive-regimes
 
-[Indian President declares abrogation of Article 370 provisions for Jammu and Kashmir](https://gulfnews.com/world/asia/india/indian-president-declares-abrogation-of-article-370-provisions-for-jammu-and-kashmir-1.1565162441994)
+[Asia’s internet shutdowns are a violation of human rights](https://www.ft.com/content/6a656de5-6031-4d97-b9cf-f683440b7915) *(Last Checked Wed 9. Feb 2022, 20:00)*
 
-India's internet shutdown shows normal practice for .... 
+https://www.ft.com/content/6a656de5-6031-4d97-b9cf-f683440b7915
 
-Indian President declares abrogation of Article 370 ....
+[India’s youth voice anger at Modi’s citizenship law](https://www.ft.com/content/d2bf1eac-230c-11ea-92da-f0c92e957a96) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://www.ft.com/content/d2bf1eac-230c-11ea-92da-f0c92e957a96
+
+[Cuba cracks down on internet in attempt to quell protests](https://www.ft.com/content/0376e21b-0b46-4dcf-8e72-0d0bb9118d89) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://www.ft.com/content/0376e21b-0b46-4dcf-8e72-0d0bb9118d89
+
+[Kashmir Internet Shutdown Continues, Despite Supreme Court Ruling](https://thediplomat.com/2020/08/kashmir-internet-shutdown-continues-despite-supreme-court-ruling/) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://thediplomat.com/2020/08/kashmir-internet-shutdown-continues-despite-supreme-court-ruling/
+
+[Supreme Court Orders Review of Internet Shutdown in Kashmir](https://time.com/5762751/internet-kashmir-supreme-court/) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://time.com/5762751/internet-kashmir-supreme-court/
+
+[India’s internet shutdown shows normal practice for sovereign countries](https://www.chinadaily.com.cn/a/201912/17/WS5df8702ca310cf3e3557eb07.html) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://www.chinadaily.com.cn/a/201912/17/WS5df8702ca310cf3e3557eb07.html
+
+[Indian President declares abrogation of Article 370 provisions for Jammu and Kashmir](https://gulfnews.com/world/asia/india/indian-president-declares-abrogation-of-article-370-provisions-for-jammu-and-kashmir-1.1565162441994) *(Last Checked Wed 9. Feb 2022, 20:00)*
+
+https://gulfnews.com/world/asia/india/indian-president-declares-abrogation-of-article-370-provisions-for-jammu-and-kashmir-1.1565162441994
+
+https://news.un.org/en/story/2019/12/1053511
+
+*PS: And as a sidenote, even though the Internet connection in most circumstances was being restored, users still need a specific Internet Protocol address to connect online, enabling authorities to track every single citizen’s device and their digital footprint.*
