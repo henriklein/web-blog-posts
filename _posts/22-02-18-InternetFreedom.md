@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living life fast"
+title: "Shutting it down"
 date: 2021-11-15
 categories: philosophy, politics
 permalink: /:categories/:title
